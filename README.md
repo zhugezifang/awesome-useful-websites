@@ -1287,6 +1287,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Engineer on a Disk: Modeling](https://engineeronadisk.com/book_modeling/modelTOC.html) - A book offering a hands-on guide to system modeling and simulation, with practical examples and explanations for engineers and developers.
 - [Bartosz Ciechanowski Archives](https://ciechanow.ski/archives/) - Collection of articles on design and technology by Bartosz Ciechanowski.
 - [IQS Directory Articles](https://www.iqsdirectory.com/articles/) - Industrial components explained through technical articles and manufacturer insights.
+- [Printable Graph Paper](https://printablegraphpaper.org/) - Printable Graph Paper with various templates
 
 ### Civil Engineering
 
