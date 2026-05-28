@@ -707,6 +707,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Y Combinator Jobs](https://www.ycombinator.com/jobs) - Discover the best startup jobs curated by Y Combinator.
 - [Coroflot](https://www.coroflot.com/discover) - Job search platform specifically tailored for designers.
 - [Cool Startup Jobs](https://www.coolstartupjobs.com/) - Explore job opportunities in growing startups and give your stock options a chance.
+- [Hanzilla Jobs](https://jobs.hanzilla.co/) - Free daily-updated Canadian student and recent-graduate jobs board for internships, co-ops, new grad, junior, and entry-level roles across tech, finance, engineering, business, sciences, and more.
 - [Anon Friendly](https://anonfriendly.com/) - Find jobs that respect your desire for anonymity.
 - [Prompt Engineering Jobs](https://prompt-engineering-jobs.com) - Explore engineering job opportunities with Prompt.
 - [AI Dev Jobs](https://aidevboard.com) - AI/ML-focused job board with 7,700+ positions from 440+ companies, including a free REST API and MCP server for AI-powered job search.
