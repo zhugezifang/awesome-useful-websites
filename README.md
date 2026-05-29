@@ -229,6 +229,9 @@ Each website is included only once. Some websites can fall into multiple categor
 - [giga.tools](https://giga.tools/) - Collection of useful in-browser tools for developers, designers, and power-users ranging from video editing, image editing, to text editing, and more.
 - [WordToTime](https://wordtotime.org) — Convert word/character counts or full text into estimated speaking, reading or narration time. Supports multiple languages and in-browser privacy-friendly processing.
 - [VolumeShaderBM](https://volumeshaderbm.org) — Browser-based real-time GPU volume shader benchmark with WebGPU/WebGL performance comparison.
+- [Speaking Time Calculator](https://speakingtimecalculator.org) – A free online tool to estimate speaking or presentation time from text using adjustable speaking speed (WPM).
+- [Focus Game](https://focus-game.org) - A lightweight browser-based focus training game for improving concentration through short interactive sessions.
+- [Schulte Table](https://schulte-table.org) - A web-based Schulte table tool for training visual attention, peripheral vision, and speed reading.
 
 ### White Board
 
@@ -259,6 +262,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 ### Texts
 
+- [Bold Text Generator](https://99tools.net/bold-text-generator/) - Easily generate bold text.
 - [Word Counter](https://freecodetools.org/word-counter/) - Word counter.
 - [Text Faces](https://textfac.es/) - Write Unicode faces.
 - [Title Case](https://titlecase.com/) - Convert a text into all kinds of cases.
@@ -330,6 +334,8 @@ Each website is included only once. Some websites can fall into multiple categor
 - [ByClickDownloader](https://www.byclickdownloader.com/) - Backup videos from various sites in HD, MP3, MP4, AVI, and other formats using their software.
 - [Reanimate](https://reanimate.github.io/) - Build declarative animations with SVG and Haskell.
 - [Photopea](https://photopea.com/) - Free online photo editor similar to Photoshop.
+- [Remove image backgrounds online for free](https://free-background-remover.com) - AI background remover that runs entirely in the browser, no upload, no sign-up, no watermark.
+- [Remove Audio (free tool)](https://remove-audio.com) - Strip the audio track from any video right in your browser. Runs locally with FFmpeg.wasm, no uploads, no signup, no watermark.
 
 ### Data Entry
 
@@ -523,6 +529,8 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Bandura Festival](https://bandura.ukrzen.in.ua/en#lvivbandurfest) - Online Bandura, a traditional Ukrainian instrument.
 - [AllMusic](https://www.allmusic.com/) - Provides comprehensive and in-depth information on albums, artists, songs, and bands, serving as a valuable resource for music enthusiasts.
 - [ASMR Microphones](https://asmrmicrophones.com) - Reviews, comparisons, and expert opinions on various ASMR microphones are provided to help users select the most suitable equipment.
+- [Omnichord Online](https://www.omnichordonline.com) - It is an online simulator for the classic instrument **Omnichord OM-27**. You can play it anytime for free in your PC or mobile browser, enjoying its authentic sound and the joy of creation.
+- [Tonalux](https://tonalux.org/) - Browser-based audio production platform with spectrum analyzer, media converter, plugin comparer and curated plugin deals. No account required.
 
 ### Find Music
 
@@ -705,8 +713,10 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Y Combinator Jobs](https://www.ycombinator.com/jobs) - Discover the best startup jobs curated by Y Combinator.
 - [Coroflot](https://www.coroflot.com/discover) - Job search platform specifically tailored for designers.
 - [Cool Startup Jobs](https://www.coolstartupjobs.com/) - Explore job opportunities in growing startups and give your stock options a chance.
+- [Hanzilla Jobs](https://jobs.hanzilla.co/) - Free daily-updated Canadian student and recent-graduate jobs board for internships, co-ops, new grad, junior, and entry-level roles across tech, finance, engineering, business, sciences, and more.
 - [Anon Friendly](https://anonfriendly.com/) - Find jobs that respect your desire for anonymity.
 - [Prompt Engineering Jobs](https://prompt-engineering-jobs.com) - Explore engineering job opportunities with Prompt.
+- [AI Dev Jobs](https://aidevboard.com) - AI/ML-focused job board with 7,700+ positions from 440+ companies, including a free REST API and MCP server for AI-powered job search.
 - [KeyValues](https://www.keyvalues.com/) - Find engineering teams that align with your values.
 - [About.me](https://about.me/) - Platform for freelancers and entrepreneurs to grow their audience and attract clients.
 - [Rejected.us](https://rejected.us/) - Read and share stories of job rejections.
@@ -764,6 +774,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Roadmap.sh](https://roadmap.sh/) - Provides roadmaps for various development areas.
 - [WTF Should I Do With My Life](https://www.wtfshouldidowithmylife.com/) - A resource to explore and learn about different occupations.
 - [path-to-polymath.notion](https://path-to-polymathy.notion.site/path-to-polymathy/Path-To-Polymathy-d7586429b7ce4db1889fc539822b9670) - Arrangement of every discipline and field out there, and what specific topics make them up.
+- [80,000 Hours](https://80000hours.org/) - Conducts research into the world's biggest problems, big industry questions, job boards, and general career advice to make a big impact.
 
 ## Startups
 
@@ -862,6 +873,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Doodlicons on Notion](https://www.notion.so/Doodlicons-519314a92ed3474093a10e44946bbb72) - Doodle icons for project wireframes on Notion.
 - [Illustration Kit](https://illustrationkit.com/) - Collection of free vector illustrations for personal and commercial projects.
 - [FontAwesome](https://fontawesome.com/) - Internet's icon library and toolkit, widely used by designers, developers, and content creators.
+- [Flat Icon](https://www.flaticon.com/) - Provides a library of free and premium icons. Most icons are free but require attributions and usually only offer PNGs. Premium is usually required for SVGs.
 - [Iconshock](https://www.iconshock.com/freeicons/) - Platform offering icons from various open-source collections, with 100k icons available for free download.
 - [3DIcons](https://3dicons.co/) - Collection of 3D icons available for free commercial and personal use under CC0 license.
 - [Fontello](https://fontello.com/) - Icon fonts generator for creating custom icon fonts.
@@ -876,6 +888,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Iconfinder](https://www.iconfinder.com/) ($) - Platform offering icons, illustrations, 3D illustrations, designers, and free icons.
 - [Iconz Design](https://iconz.design/) ($) - Premium 3D library of 223 icons.
 - [HugeIcons.pro](https://hugeicons.pro/) ($) - Platform offering over 25,000 icons in 5 unique styles, organized across 57 popular categories.
+- [Game-Icons.net](https://game-icons.net/) - Provides a collection of free creative commons SVG and PNG icons specifically designed for videogames.
 
 #### Stock Images
 
@@ -893,6 +906,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Depositphotos](https://depositphotos.com/) - Platform with 232 million files, including royalty-free images, videos, vectors, illustrations, and music.
 - [Skuawk](https://skuawk.com/) - Source of public domain photos for various creative projects.
 - [All-Free-Download](https://all-free-download.com/) - Platform offering graphics art available for free use in personal or commercial projects.
+- [Open Verse](https://openverse.org/) - A search tool to find openly licensed and public domain works across the internet.
 
 #### Wallpapers
 
@@ -1133,6 +1147,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [D3.js](https://d3js.org/) - JavaScript library for manipulating documents based on data, enabling the creation of dynamic and interactive data visualizations.
 - [Deniz Cem On Duygu Portfolio](https://www.denizcemonduygu.com/) - Personal portfolio of infographics.
 - [Data Visualization Catalogue](https://datavizcatalogue.com/index.html) - Catalog providing information on various types of data visualizations.
+- [Data Viz Project](https://datavizproject.com/) - Provides a comprehensive catalogue of data visualization types accompanied by additional examples.
 - [Tableau Public](https://public.tableau.com/app/discover) - Free platform to explore, create, and publicly share data visualizations online.
 - [Will Robots Take My Job?](https://willrobotstakemyjob.com/) - Estimates the automation risk, growth, wages, and more for various jobs.
 - [Preceden](https://www.preceden.com/) - Online timeline and roadmaps maker.
@@ -1282,6 +1297,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Engineer on a Disk: Modeling](https://engineeronadisk.com/book_modeling/modelTOC.html) - A book offering a hands-on guide to system modeling and simulation, with practical examples and explanations for engineers and developers.
 - [Bartosz Ciechanowski Archives](https://ciechanow.ski/archives/) - Collection of articles on design and technology by Bartosz Ciechanowski.
 - [IQS Directory Articles](https://www.iqsdirectory.com/articles/) - Industrial components explained through technical articles and manufacturer insights.
+- [Printable Graph Paper](https://printablegraphpaper.org/) - Printable Graph Paper with various templates
 
 ### Civil Engineering
 
@@ -1481,6 +1497,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [CSS Solid](https://www.csssolid.com/) - CSS references, tutorials, and articles.
 - [CSS-Tricks](https://css-tricks.com/) - Web design community powered by Digital Ocean.
 - [CSS Box Shadow Code Snippet](https://onaircode.com/css-box-shadow-code-snippet/) - Code snippet for creating CSS box shadows.
+- [UI Verse](https://uiverse.io/) - A library of open source UI elements that can be copied as HTML/CSS, Tailwind, React, and Figma.
 
 #### JavaScript
 
@@ -1577,6 +1594,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Flash Games Archive](https://flasharch.com/en) - Archive of Flash games, preserving these classic games for future enjoyment.
 - [OpenGameArt](https://opengameart.org/) - A platform offering free-to-use game assets, including 2D and 3D art, sound effects, and music for developers and game creators.
 - [Nexus Mods](https://www.nexusmods.com/) - One of the largest online communities for game modifications, offering a vast collection of mods for popular video games to enhance gameplay, add content, or personalize experiences.
+- [Noclip](https://noclip.website/) - An online videogame map viewer for exploring levels from various videogames in noclip mode.
 
 #### Game Theory
 
@@ -1646,6 +1664,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Oh Shit, Git!](https://ohshitgit.com/) - Resource providing solutions for common Git mistakes and how to recover from them.
 - [GitHub Trending Archive](https://github.motakasoft.com/trending/) - Archive of trending repositories on GitHub, allowing users to explore popular projects and programming trends over time.
 - [Map of GitHub](https://anvaka.github.io/map-of-github/) - Visual representation of the GitHub repository network.
+- [Related Repos](https://relatedrepos.com/) - Discover related open source projects. Find alternatives and other similar repositories. Updated daily.
 
 ### IDEs
 
@@ -1745,6 +1764,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [XN--1-ZFA](https://xn--1-zfa.com/) - Advanced search for Google, DuckDuckGo, Twitter, YouTube, Reddit.
 - [Seekr](https://www.seekr.com/) - Search engine that utilizes AI to analyze and score the quality of content, starting with news articles.
 - [Million Short](https://millionshort.com/) - Discover content beyond the first million search results.
+- [Not Human Search](https://nothumansearch.ai) - Search engine for AI agent tools, indexing 1,750+ MCP servers and developer APIs with agentic compatibility scores.
 
 ### Internet
 
@@ -2102,12 +2122,13 @@ Each website is included only once. Some websites can fall into multiple categor
 - If you want to add a new category or website:
   - Do not add a website if it is malicious, dangerous, illegal, etc. (you can check its security by running it through a program such as [VirusTotal](https://www.virustotal.com/gui/home)).
   - Do not add a website if it is merely for entertainment and not really useful for anything.
-  - To avoiding duplications, seach whether the website is already included.
+  - To avoid duplication, search whether the website is already included.
+  - If you are a spam/AI account, your pull request is going to be rejected.
   - Create a [pull request](https://github.com/atakanaltok/awesome-useful-websites/pulls).
 
-- If you are a site owner and believe that your site is not described accurately, please [rise an issue](https://github.com/atakanaltok/awesome-useful-websites/issues).
+- If you are a site owner and believe that your site is not described accurately, please [raise an issue](https://github.com/atakanaltok/awesome-useful-websites/issues).
 
-- If a website is down for some reason, it is generally kept in the list for archiving purposes, and also in case their maintainers might restore them. However, if the destination of a link has changed or a link is now broken, please [rise an issue](https://github.com/atakanaltok/awesome-useful-websites/issues).
+- If a website is down for some reason, it is generally kept in the list for archiving purposes, and also in case their maintainers might restore them. However, if the destination of a link has changed or a link is now broken, please [raise an issue](https://github.com/atakanaltok/awesome-useful-websites/issues).
 
 <br>
 
